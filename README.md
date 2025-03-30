@@ -28,7 +28,7 @@
 - Python 3.10
 
 ## Requirements
-Any system capable of running .exe files in a command-line environment that supports emoji display.
+Any system capable of running .exe files in a command line environment that supports emoji display.
 
 ## Setup Instructions
 
