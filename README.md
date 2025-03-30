@@ -1,6 +1,7 @@
 # Arena - Turn-Based RPG Game
-
-![Arena](./ss/logo.jpg)
+<div style="text-align: center;">
+<img src="./ss/logo.jpg" width="49%"/>
+</div>
 
 ## Table of Contents
 - 🚀 [Project Overview](#project-overview)
