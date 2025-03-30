@@ -35,7 +35,7 @@ Any system capable of running .exe files in a command-line environment that supp
 
 ## All Purchasable Items Info (Polish)
 
-| **Nazwa**               | **Cena** | **Cecha**                          | **Szczegóły**                          |
+| **Nazwa📖**               | **Cena🪙** | **Cecha⬆️**                          | **Szczegółyℹ️**                          |
 |:-----------------------:|:--------:|:----------------------------------:|:--------------------------------------:|
 | Przespij się            | 5-12     | +5-90 HP                          |                                        |
 | Żelazny miecz          | 25       | +2 dmg                            |                                        |
@@ -49,7 +49,7 @@ Any system capable of running .exe files in a command-line environment that supp
 | Podstawowy opatrunek   | 5        | +20 HP                            |                                        |
 | Zatrzymanie krwawienia | 10       | +45 HP                            |                                        |
 | Usztywnienie złamania  | 20       | +90 HP                            |                                        |
-| Mikstura podstawowa    | 5/1*     | +15 HP                            | *1 zł w mieszkaniu                     |
+| Mikstura podstawowa    | 5/1*     | +15 HP                            | *W mieszkaniu                     |
 | Trucizna               | 7        | +3 poison dmg                     | Do końca walki                         |
 | Mieszkanie             | 500      | Darmowy odpoczynek, tańsze mikstury | Odblokowywane na 5 poziomie            |
 | Ognik                  | 30       | +2 magic dmg                      | Wielokrotny zakup (od 5 lvl)           |
