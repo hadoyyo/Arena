@@ -6,9 +6,9 @@
 - 🚀 [Project Overview](#project-overview)
 - ✨ [Features](#features)
 - 💻 [Technologies](#technologies)
-- 📋[Requirements](#requirements)
+- 📋 [Requirements](#requirements)
 - 🛠️ [Setup Instructions](#setup-instructions)
-- [All Purchasable Items Info (Polish)](#all-purchasable-items-info-(polish))
+- 🪙 [All Purchasable Items Info (Polish)](#all-purchasable-items-info-(polish))
 - 📸 [Screenshots](#screenshots)
 
 ## Project Overview
