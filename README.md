@@ -38,7 +38,7 @@ Any system capable of running .exe files in a command-line environment that supp
 
 | **Nazwa📖**               | **Cena🪙** | **Cecha⬆️**                          | **Szczegółyℹ️**                          |
 |:-----------------------:|:--------:|:----------------------------------:|:--------------------------------------:|
-| Przespij się            | 5-12     | +5-90 HP                          |                  -                      |
+| Przespij się            | 5-12     | +5-90 HP                          |                  Losowe działanie                      |
 | Żelazny miecz          | 25       | +2 DMG                            |                   -                     |
 | Srebrny miecz          | 50       | +5 DMG                            |                   -                    |
 | Mistrzowski miecz      | 100      | +11 DMG                           |                   -                     |
