@@ -1,6 +1,6 @@
 # Arena - Turn-Based RPG Game
 
-![Arena](./img/logo.png)
+![Arena](./ss/logo.png)
 
 ## Table of Contents
 - 🚀 [Project Overview](#project-overview)
@@ -57,3 +57,7 @@ Any system capable of running .exe files in a command-line environment that supp
 | Jaszczur               | 260      | +20 magic DMG                     | Jednokrotny zakup (od 5 poziomu)           |
 
 ## Screenshots
+<img src="./ss/ss1.png" width="49%"/> <img src="./ss/ss2.png" width="49%"/>
+<img src="./ss/ss3.png" width="49%"/> <img src="./ss/ss4.png" width="49%"/>
+<img src="./ss/ss5.png" width="49%"/> <img src="./ss/ss6.png" width="49%"/>
+<img src="./ss/ss7.png" width="49%"/> <img src="./ss/ss8.png" width="49%"/>
