@@ -53,7 +53,7 @@ Any system capable of running .exe files in a command line environment that supp
 | Usztywnienie złamania  | 20       | +90 HP                            |                 -                       |
 | Mikstura podstawowa    | 5/1*     | +15 HP                            | *W mieszkaniu                     |
 | Trucizna               | 7        | +3 poison DMG                     | Do końca walki                         |
-| Mieszkanie             | 500      | Darmowy odpoczynek, tańsze mikstury | Odblokowywane na 5 poziomie            |
+| Mieszkanie             | 500      | Darmowy odpoczynek, tańsze mikstury | Odblokowywane na 5 poziomie postaci          |
 | Ognik                  | 30       | +2 magic DMG                      | Wielokrotny zakup (od 5 poziomu)           |
 | Jaszczur               | 260      | +20 magic DMG                     | Jednokrotny zakup (od 5 poziomu)           |
 
