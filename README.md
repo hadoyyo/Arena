@@ -55,3 +55,5 @@ Any system capable of running .exe files in a command-line environment that supp
 | Mieszkanie             | 500      | Darmowy odpoczynek, tańsze mikstury | Odblokowywane na 5 poziomie            |
 | Ognik                  | 30       | +2 magic DMG                      | Wielokrotny zakup (od 5 poziomu)           |
 | Jaszczur               | 260      | +20 magic DMG                     | Jednokrotny zakup (od 5 poziomu)           |
+
+## Screenshots
