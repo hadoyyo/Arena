@@ -1,6 +1,6 @@
 # Arena - Turn-Based RPG Game
 
-![Arena](./ss/logo.png)
+![Arena](./ss/logo.jpg)
 
 ## Table of Contents
 - 🚀 [Project Overview](#project-overview)
