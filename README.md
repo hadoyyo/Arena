@@ -58,7 +58,7 @@ Any system capable of running .exe files in a command line environment that supp
 | Jaszczur               | 260      | +20 magic DMG                     | Jednokrotny zakup (od 5 poziomu)           |
 
 ## Screenshots
-<video src="./wideo/demo.mp4" width="49%" controls align="center">
+<video src="./ss/video.mp4" width="49%" controls align="center">
   Twoja przeglądarka nie obsługuje tagu wideo.
 </video>
 <img src="./ss/ss1.png" width="49%"/> <img src="./ss/ss2.png" width="49%"/>
