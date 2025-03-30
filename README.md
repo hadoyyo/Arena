@@ -8,7 +8,7 @@
 - 💻 [Technologies](#technologies)
 - 📋 [Requirements](#requirements)
 - 🛠️ [Setup Instructions](#setup-instructions)
-- 🪙 [All Purchasable Items Info (Polish)](#all-purchasable-items-info-(polish))
+- 🪙 [All Purchasable Items Info Polish](#all-purchasable-items-info-polish)
 - 📸 [Screenshots](#screenshots)
 
 ## Project Overview
@@ -34,7 +34,7 @@ Any system capable of running .exe files in a command-line environment that supp
 1. Extract the `Arena.zip` file.
 2. Run the `Arena.exe` file to start the game.
 
-## All Purchasable Items Info (Polish)
+## All Purchasable Items Info Polish
 
 | **Nazwa📖**               | **Cena🪙** | **Cecha⬆️**                          | **Szczegółyℹ️**                          |
 |:-----------------------:|:--------:|:----------------------------------:|:--------------------------------------:|
