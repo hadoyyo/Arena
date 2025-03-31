@@ -72,7 +72,7 @@ def walka(akthp, maxhp, mikstury, ilosc_trucizn, tarcza, obrazeniaD, obrazeniaW,
               '\nMikstury: ' + str(mikstury) + emoji.emojize(':fire_extinguisher:', language='alias')+ '\nTrucizna: ' + str(ilosc_trucizn) + emoji.emojize(':test_tube:', language='alias') +
               '\nTarcza: ' + str(tarcza) + emoji.emojize(':shield:', language='alias'))
         
-        ruch = int(safe_input('\nWrog: ' + str(nazwa1) + '\nHP: ' + str(hp1) + '/' + str(mhp) + 
+        ruch = int(safe_input('\nWrog: ' + str(nazwa1) + '\nHP: ' + str(hp1) + '/' + str(mhp) + emoji.emojize(':red_heart:', language='alias') +
                      '\n\nWybierz akcje:\n1 - Atakuj' + emoji.emojize(':fist:', language='alias') + 
                      '\n2 - Wypij miksture' + emoji.emojize(':fire_extinguisher:', language='alias') + 
                      '\n3 - Rzuc trucizne' + emoji.emojize(':test_tube:', language='alias') + 
