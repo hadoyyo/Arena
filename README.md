@@ -13,7 +13,10 @@
 - 📸 [Screenshots](#screenshots)
 
 ## Project Overview
-**Arena** is a text-based RPG where the player takes on the role of a warrior fighting in various arenas against diverse opponents, battling for the title of "Challenger". Developed in Python, the game is played entirely in the command line. (This is my first 'bigger' project, and some of the coding solutions might be, let's say, less than optimal :P) **The game is only available in Polish language version!**
+**Arena** is a text-based RPG where the player takes on the role of a warrior fighting in various arenas against diverse opponents, battling for the title of "Challenger". Developed in Python, the game is played entirely in the command line. (This is my first 'bigger' project, and some of the coding solutions might be, let's say, less than optimal :P) 
+
+> [!NOTE]  
+> **The game is only available in Polish language version!**
 
 ## Features
 
